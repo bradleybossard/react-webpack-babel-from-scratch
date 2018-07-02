@@ -1,0 +1,20 @@
+{
+  "name": "react-webpack-babel-from-scratch",
+  "version": "1.0.0",
+  "description": "### Links [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleybossard/react-webpack-babel-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradleybossard/react-webpack-babel-from-scratch/issues"
+  },
+  "homepage": "https://github.com/bradleybossard/react-webpack-babel-from-scratch#readme"
+}
